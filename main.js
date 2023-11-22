@@ -6,7 +6,8 @@ function tocaSomclap (){
     document.querySelector('#som_tecla_clap').play();
     }
 function tocaSomtim (){
-        document.querySelector('#som_tecla_tim').play();
+        document.querySelector('#som_tecla_tim').play(); 
+    }  
 function tocaSomPuff (){
         document.querySelector('#som_tecla_puff').play();
     }
